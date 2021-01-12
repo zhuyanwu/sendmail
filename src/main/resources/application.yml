@@ -1,0 +1,10 @@
+server:
+  port: 8088
+  servlet:
+    context-path: /sendmail
+spring:
+  mail:
+    host: smtp.163.com
+    username: dreamtoi@163.com
+    password: FZGDKEQHCXFKUYQUZ
+    default-encoding: utf-8
